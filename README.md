@@ -7,7 +7,7 @@ A project that interfaces a 4x4 matrix keypad with a 16x2 LCD display using an A
 ## 📸 Circuit Photo
 
 <!-- Replace the path below with your actual Tinkercad screenshot -->
-![Circuit Screenshot]("https://github.com/user-attachments/assets/60be61b0-9f48-4273-b967-e528999d03de
+![Circuit Screenshot](https://github.com/user-attachments/assets/60be61b0-9f48-4273-b967-e528999d03de
 )
 
 
